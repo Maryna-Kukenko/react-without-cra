@@ -1,4 +1,9 @@
-.App {
-    margin: 1rem;
+.app {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px 10px;
     font-family: Arial, Helvetica, sans-serif;
+    border-right: 1px solid darkgreen;
+    border-left: 1px solid darkgreen;
+    text-align: center;
 }
